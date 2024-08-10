@@ -1,0 +1,11 @@
+langchain==0.2.12
+langchain-community==0.2.11
+langchain-openai==0.1.20
+python-dotenv==1.0.1
+openai==1.40.3
+SpeechRecognition==3.10.4
+pyttsx3==2.90
+gTTS==2.5.2
+pygame==2.6.0
+rpi-lcd==0.0.3
+RPi.GPIO==0.7.1
